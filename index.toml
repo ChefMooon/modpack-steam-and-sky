@@ -689,6 +689,11 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/raws-visual-keybinder.pw.toml"
+hash = "9a0a916862949b958c2e099d2dcccbf3b3d8d5290151d8f72cca703587b5c9a0"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -981,3 +986,31 @@ metafile = true
 file = "resourcepacks/undopia-3d-chiseled-bookshelf.pw.toml"
 hash = "02c0fc12f643544c1cbbda7c232654d213d21ceebefda8058afdd7cd40e05859"
 metafile = true
+
+[[files]]
+file = "visual_keybinder/layouts/1.Full Keyboard and mouse.layout.txt"
+hash = "94cf7a57dd6bfddad9892cc0954b727e955118604a2b486186e722885cecfbec"
+
+[[files]]
+file = "visual_keybinder/layouts/2.Mouse.layout.txt"
+hash = "2a0f734356677fa9d4aea308a4f5594616a6989c8c5a59b9478d4aaa56fcc152"
+
+[[files]]
+file = "visual_keybinder/layouts/3.Keyboard.layout.txt"
+hash = "e134851f68047e11377c9dbdfa8724e583bf00240cafc8fd6ad558b8888bc17a"
+
+[[files]]
+file = "visual_keybinder/layouts/4.Keypad.layout.txt"
+hash = "02ac95971692039faa066e9105bcc16222ec4d329e78bf801d6a612f0d32fdae"
+
+[[files]]
+file = "visual_keybinder/layouts/5.Function keys.layout.txt"
+hash = "6abe68a2fc042c83f62d0ba8d9ca3c710828a118f9713bbafc0b11c60980244c"
+
+[[files]]
+file = "visual_keybinder/preset_to_load_on_first_startup.txt"
+hash = "76e7829e041bed427fccd1df5eca814f76a8c9cc36027f6b6b888ea70122d4b7"
+
+[[files]]
+file = "visual_keybinder/presets/steam_and_sky.preset.txt"
+hash = "3166221aacd4525519e959ea9f71c450e5633469345c7fc9d0cd61d1e1b7041b"
