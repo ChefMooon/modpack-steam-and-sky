@@ -1,0 +1,13 @@
+name = "Create Aviation"
+author = "ChefMooon"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2cc0f7c3c8aea10b50afa41edde35840de075f41d3e5d6aac1e4cf60d93ba5f5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.226"

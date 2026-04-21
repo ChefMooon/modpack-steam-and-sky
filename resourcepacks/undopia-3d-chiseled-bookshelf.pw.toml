@@ -1,0 +1,13 @@
+name = "Undopia 3D Chiseled Bookshelf"
+filename = "Undopia_3D_Chiseled_Bookshelf_1.21.x_v.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3PvB3Pn/versions/zIKiOxV0/Undopia_3D_Chiseled_Bookshelf_1.21.x_v.1.0.zip"
+hash-format = "sha512"
+hash = "79bb92dc2265636f2ff1268d295dac3336a1dfc46b6854b7d219c3f40d654bccdfa87c7e058603417b4e5041b21c5ab32c2fe5ec6c272ab44c9022f86f6ad904"
+
+[update]
+[update.modrinth]
+mod-id = "s3PvB3Pn"
+version = "zIKiOxV0"
