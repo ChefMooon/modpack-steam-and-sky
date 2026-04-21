@@ -1038,6 +1038,21 @@ hash = "02c0fc12f643544c1cbbda7c232654d213d21ceebefda8058afdd7cd40e05859"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "461e40107c6b2b38ad33c7820b07b06f8dc8016611ed910ae49ecf7b073bf019"
+metafile = true
+
+[[files]]
 file = "visual_keybinder/layouts/1.Full Keyboard and mouse.layout.txt"
 hash = "94cf7a57dd6bfddad9892cc0954b727e955118604a2b486186e722885cecfbec"
 
