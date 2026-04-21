@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/steam_and_sky_title_screen_layout.txt"
+hash = "74cac55cc8de943cbdad3ca302fb606f76c768de46d235655a7f488ad017cfc6"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "5f9ff772228135fe6d8e56c5ece5a7bbacd04f1c46d489b92a14034ccbe59798"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "41df075692aafd7fade4a411e0cff132d09cab26d024e98e58c22a7a7bcea08f"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "00090d04ff45b4384fcb5d6efa3a3e387338cda4bb4225a3ef2d1782994741c8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -321,6 +369,11 @@ hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "98e02478bc3be30b8eb4e62b8fb116a5805caea3cf557f17d36c633d840fe223"
+metafile = true
+
+[[files]]
 file = "mods/dungeons_delight.pw.toml"
 hash = "efff47006dc82c1df09302c6aba5355897be642e065a3b7599ccf237fb1f3912"
 metafile = true
@@ -383,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves.pw.toml"
 hash = "2639b92c44a573ac982a9b7bbf719b08ec85a42c5cf800128a058656e78c8d0e"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2d7e927b0efdc5e79a50505151975605b355d14d7da2a475aa8a767697911651"
 metafile = true
 
 [[files]]
@@ -543,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "fc40fbc023c67db016e4c0d72f25fcabb708bb17b0749254c00f9b260467ec3f"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
@@ -884,6 +947,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
+
+[[files]]
+file = "pack-icon.png"
+hash = "4c521b1f10524f4e3734e34694d853d636cbc996065624976fe13e1fb4280957"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"

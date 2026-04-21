@@ -1,0 +1,42 @@
+{
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 19,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -17
+            },
+            "SORT": {
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "top": -17
+            }
+        }
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 19,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -17
+            },
+            "SORT": {
+                "top": -17
+            },
+            "SORT_COLUMNS": {
+                "top": -17
+            },
+            "SORT_ROWS": {
+                "top": -17
+            }
+        }
+    }
+}
