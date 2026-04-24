@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5ff311f1046332bb40d159be80515bb18a2d00ab410c1f8c1cd101884eb6713f"
+hash = "d7540be6350169303f202c252d087f4189c49956b949e6675108cc6475a970d4"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
