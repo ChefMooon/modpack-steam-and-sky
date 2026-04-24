@@ -1,5 +1,7 @@
 # Steam and Sky Changelog
 
+## 0.1.2
+
 ## 0.1.1
 
 ### Updated
