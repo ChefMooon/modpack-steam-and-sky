@@ -1,5 +1,15 @@
 # Steam and Sky Changelog
 
+## 0.1.3
+
+### Added
+
+- sophisticateditemactions-1.21.1-0.5.2.237.jar
+
+### Updated
+
+- sophisticatedbackpacks-1.21.1-3.25.40.1677.jar -> sophisticatedbackpacks-1.21.1-3.25.42.1709.jar
+
 ## 0.1.2
 
 ### Added

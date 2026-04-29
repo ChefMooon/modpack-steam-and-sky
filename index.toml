@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ae94b39946bdf053a6f6c2128225744207cd104bd18db0637240531632ded1e7"
+hash = "82a9d815d597499aa458de42bb313a15668efd4ffd1261205d6c80c2a8b82157"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -834,12 +834,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2f68626c1dfdcefa3bf39cdf2d2d698638ff6243393295b918632c97013bd5f4"
+hash = "5d456b77b7ba6381ee745161d355843c52bdc20b0eab644bd6152dc669ae3d58"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "00c2f94fd2a469c880b73633a14cb6b654554ebc26610a7a8eac65a6673772d2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-item-actions.pw.toml"
+hash = "b7f0b72c0c743d795765234956c3730cbaf5a247eae0b7e820ee9f088b3847cf"
 metafile = true
 
 [[files]]
