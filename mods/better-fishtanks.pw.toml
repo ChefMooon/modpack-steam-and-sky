@@ -1,0 +1,13 @@
+name = "Better Fishtanks"
+filename = "betterfishtanks-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aokk3vZE/versions/AY4XzXFf/betterfishtanks-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "17ff3b986bc25b4a4a22ea01e15b08df799d024c7913880c734bf956645c9d0b6fabd5483f7e1ead798da2bc1f702c1e9028c4f5c56d25954cec38d8d6a756fc"
+
+[update]
+[update.modrinth]
+mod-id = "Aokk3vZE"
+version = "AY4XzXFf"

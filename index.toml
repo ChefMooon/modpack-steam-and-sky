@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d7540be6350169303f202c252d087f4189c49956b949e6675108cc6475a970d4"
+hash = "ae94b39946bdf053a6f6c2128225744207cd104bd18db0637240531632ded1e7"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -128,6 +128,11 @@ hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
 metafile = true
 
 [[files]]
+file = "mods/better-fishtanks.pw.toml"
+hash = "15a20877eeb36e7f9a163e55ae67777343ebf9df6b718931c6de44b5a6170ceb"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
@@ -159,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+hash = "7adc37004f755552e98b268ab298447c6efb1406eaf7866b6126f263391cefcd"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
 metafile = true
 
 [[files]]
@@ -319,12 +324,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "f2a31a21fa9bb92922c52d245adc54e1b09ba0474e8b3f663c8c0bc8d48bb60c"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -374,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0d3afed34d036df89dc89bd7370ab96e918fb3f797f57571ad885b00899021e3"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "6be0888f4633c093f455d9e6d27aa68f0c8879cc2c12a8a4fc569eb22c451bfc"
+hash = "edaeca13686caeda3d9344ef2ea74f9c25fc05dfdf713a7d95cae733ed3ee2ba"
 metafile = true
 
 [[files]]
@@ -464,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+hash = "68f126cd44b719ef51800a83fe7cd603bbc27398f18cff806124647654c0e4b5"
 metafile = true
 
 [[files]]
@@ -534,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "7a733deb39d1e1691a5746de380da94c47f5d99786a4d22e428b7de58fcc7950"
+hash = "db508c228cf3fd25ffaf86f836d90d292807059c1154a43e7bdd4d08954caf0c"
 metafile = true
 
 [[files]]
@@ -658,6 +668,11 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/mint-lib.pw.toml"
+hash = "5a12c7b04296b4a4ad9a9ce6d0ed4fd0a71b72125c1bfd22519aaa1834d9d4f5"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -774,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -824,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2bd0736203caad3c53e9d644a339c04d7fd0856c7f87b4cfd3e4d6860bb9ef53"
+hash = "00c2f94fd2a469c880b73633a14cb6b654554ebc26610a7a8eac65a6673772d2"
 metafile = true
 
 [[files]]
@@ -834,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cbebf2d623a7b2ff54675dc1b8453786c8a01acf1c4fef4e63c8c141659c7095"
+hash = "0af154df6e7fe6999b6acc493cc55f41597de5bdd0c8b84b4c2d0ae6f343a362"
 metafile = true
 
 [[files]]
@@ -934,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
+hash = "e2978597c04f24e2e0536a6aa666ef5cc0b1d515c09af1f763c65587faa73333"
 metafile = true
 
 [[files]]
@@ -1053,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "461e40107c6b2b38ad33c7820b07b06f8dc8016611ed910ae49ecf7b073bf019"
+hash = "7e751072098f79833fb0ad5b0a99a42d70681fe151355e43752b14a3f1d64826"
 metafile = true
 
 [[files]]
