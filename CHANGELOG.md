@@ -1,5 +1,46 @@
 # Steam and Sky Changelog
 
+## 0.1.4
+
+## Added
+
+- aeroworks-1.2.9.jar
+- aeronauticscompat-1.1.2.jar
+- bits_n_bobs-0.0.44.jar
+- aero_cam_sync-1.2.0.jar
+- aerowear-1.0.0.jar
+- cc_sable-neoforge-1.2.4.jar
+- createdieselgenerators-1.21.1-1.3.11.jar
+- createpropulsion-1.1.3.jar
+- createbigcannons-5.11.3+mc.1.21.1.jar
+  - ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar
+- create-integrated-farming-1.2.2.jar
+- tracks-neoforge-1.21.1-1.0.1.jar
+- create_radar-0.4.8-1.21.1.jar
+- vista-neoforge-1.21.1-4.3.1.jar
+- Measurements-neoforge-1.21.1-3.0.3.jar
+- immersive_paintings-neoforge-1.21.1-0.7.6.jar
+  - fzzy_config-0.7.6+1.21+neoforge.jar
+- immersive_melodies-neoforge-0.6.3+1.21.1.jar
+- waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar
+  - watervision-NF-mc1.21.1-v0.1.0-alpha.jar
+  - watermedia-2.1.37.jar
+    - watermedia_youtube_extension-3.0.0-beta.4.jar
+- reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar
+- sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar
+  - sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar
+- create-dyn-light-2.3.1-sodium-sable.jar
+
+## Updated
+
+- create_connected-1.1.14-mc1.21.1.jar -> create_connected-1.1.16-mc1.21.1.jar
+- create-central-kitchen-2.3.0.jar -> create-central-kitchen-2.4.0.jar
+- createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar -> createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar
+
+## Removed
+
+- lambdynamiclights
+
 ## 0.1.3
 
 ### Added
