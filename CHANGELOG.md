@@ -36,6 +36,10 @@
 - create_connected-1.1.14-mc1.21.1.jar -> create_connected-1.1.16-mc1.21.1.jar
 - create-central-kitchen-2.3.0.jar -> create-central-kitchen-2.4.0.jar
 - createrailwaysnavigator-neoforge-1.21.1-alpha-0.9.0-C6+2.jar -> createrailwaysnavigator-neoforge-1.21.1-beta-0.9.0-C6.jar
+- moonlight-1.21-2.29.33-neoforge.jar -> moonlight-neoforge-1.21.1-3.0.7.jar
+- xaerominimap-neoforge-1.21.1-25.3.10.jar -> xaerominimap-neoforge-1.21.1-25.3.13.jar
+- xaeroworldmap-neoforge-1.21.1-1.40.11.jar -> xaeroworldmap-neoforge-1.21.1-1.40.16.jar
+- XaeroPlus-2.30.10+neoforge-1.21.1-WM1.40.11-MM25.3.10.jar -> XaeroPlus-2.31.3+neoforge-1.21.1-WM1.40.16-MM25.3.13.jar
 
 ## Removed
 

@@ -1,12 +1,12 @@
 name = "steam-and-sky"
 author = "ChefMooon"
-version = "0.1.3"
+version = "0.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b93c0b40d7dfebf803ebb20da06c5dcaf971e132a979a986e9e605cc105c0c2d"
+hash = "8487cc00d7209106856bb2d9783fdb8967224fcf37ba2b853ff62602562b3052"
 
 [versions]
 minecraft = "1.21.1"
