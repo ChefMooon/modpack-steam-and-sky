@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "6cf286724c833ee71802d916b86035b637e0d91e2d581d44d6bd5a41fa2c78b6"
+hash = "4269c093420befe900d0702a5462b12c7eb0b49d2dfe9fc0dd5ea9870ac89249"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fishtanks.pw.toml"
-hash = "15a20877eeb36e7f9a163e55ae67777343ebf9df6b718931c6de44b5a6170ceb"
+hash = "ce4fa93a30d991cd9f62e21c6e5e5e3e2ec7cd87e273d0bf0f70de6c26e2ea60"
 metafile = true
 
 [[files]]
